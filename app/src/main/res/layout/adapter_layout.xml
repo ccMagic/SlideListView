@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/tv"
+    android:background="@color/mediumPurple"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:text="祈求者"
+    android:gravity="center"
+    android:padding="15dp">
+
+</TextView>
